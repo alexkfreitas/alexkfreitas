@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=40&duration=3500&pause=2500&color=00BFBF&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Bem-vindo!;Alex+Katanosaka+Freitas;23+anos+de+idade;S%C3%A3o+Paulo+-+SP;Desenvolvedor+Java+Web+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=40&duration=3500&pause=2500&color=00BFBF&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Bem-vindo!;Alex+Katanosaka+Freitas;24+anos+de+idade;S%C3%A3o+Paulo+-+SP;Desenvolvedor+Java+Web+Full+Stack)](https://git.io/typing-svg)
 ##
 
 <br>
