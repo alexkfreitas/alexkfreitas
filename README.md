@@ -2,8 +2,8 @@
 ##
 
 <br>
-- 🌱 I’m currently developing for Web using Java and Spring<br>
-- 💬 Ask me about Java, Spring, SQL and I'll try to help as much as I can!<br><br><br>
+- 🌱 I’m currently developing for Web using C#<br>
+- 💬 Ask me about C#, Java, SQL and I'll try to help as much as I can!<br><br><br>
 
 <img src="https://komarev.com/ghpvc/?username=alexkfreitas&label=Profile%20views&color=0e75b6&style=flat" alt="alexkfreitas" />
 
